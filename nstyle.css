@@ -1,0 +1,84 @@
+#site{
+	width: 100%;
+	height: 585px;
+	background-color: #blue;
+}
+#conteudo-left{
+	width: 80%;
+	height: 385px;
+	margin-left: 10%;
+	background-color: #333;
+	padding-left: 1%; 
+	padding-right: 1%;
+	border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+#conteudo-right{
+	width: 80%;
+	height: 220px;
+	margin-left: 10%;
+	background: linear-gradient(to top,#987,#999);
+	font-size: 11.5px; color: #544; #2c6d6f; 0f0f0f; #2F2F2F;
+	font-family: Yandex-UI-Icons-Private;
+	padding-left: 1%; 
+	padding-right: 1%;
+	padding-top: 5px;
+	border-top-right-radius: px;
+    border-top-left-radius: px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+h {
+	   color: #544; #2c6d6f; #2f3f3f; 2F2F3F;  rgb(0, 0, 0); #aaa; #0c6d6f; #151516; #dbdbdb; #EDEEF0; #7c6d6f; white; #dbdbdb; #151516; font-size: 11.5px; 12.7px; 12.6px; font-family: Sitka Small; Yandex-UI-Icons-Private; Sitka Small;
+	
+    }
+	h1 {
+	   color: #b40000; #d00; rgb(85, 26, 139); rgb(0, 0, 0); #0c6d6f; #151516; #dbdbdb; #EDEEF0; #7c6d6f; white; #dbdbdb; #151516; font-size: 15px; 10px; 16px; font-family: Sitka Small;
+	}
+	h2 { 
+	   color: #222; #aaa; #151516; #3c161c; #1f1f1f; font-size:12px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
+    }
+	h3 { 
+	   color: brown; #3c161c; #1f1f1f; font-size: 12.2px; 12.4px; 12.6px; 11px; font-family: Sitka Small; Yandex-UI-Icons-Private;
+    }
+    p { 
+	  line-height:1px;
+	  font-size: 12.7px; 11.4px; 10.4999px; 11.45px; color: black; #EDEEF0; #fff; #EDEEF0; #151516; darkblue; #292b2c; #00bb99; #EDEEF0; font-family: Yandex-UI-Icons-Private; Verdana;
+	}
+	@media only screen and (max-device-width: 700px) {
+    /* .menu { width:400px; } */
+    }
+a {
+	
+    text-decoration: #d00; 
+    text-decoration-style: none; 
+    text-decoration-color: black;
+    display: ;
+    margin: 0px;
+	
+}
+a.under {
+    color: #fff; #333;
+    font-family: Verdana; 	
+	font-size: 12.999px;
+    text-decoration: none;
+    text-decoration-style: double;
+    text-decoration-color: currentcolor;
+}
+a.over {
+    text-decoration: overline;
+    text-decoration-style: dotted;
+    text-decoration-color: green;
+
+}
+a.line {
+    color:blue; #b40000; #151516;
+    text-decoration:none; line-through;
+    text-decoration-style: dashed;
+    text-decoration-color: red; font-size: 12px;
+}
+
+a:active {
+    color: #FFF;
+    font-size: 14px;
+}
