@@ -1,30 +1,46 @@
 #site{
 	width: 100%;
 	height: 99%; 585px;
-	background-color: #blue;
+	background-color: #fff;
+}
+#conteudo-header {
+	width: 82.02%;
+	height: 0.8%; 585px;
+	margin-left: 10%;
+	background-color: #444;
+	border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
 }
 #conteudo-left{
 	width: 80%;
 	height: 63%; 385px;
 	margin-left: 10%;
-	background-color: #333;
+	background-color: #444;	
 	padding-left: 1%; 
 	padding-right: 1%;
-	border-top-right-radius: 5px;
-        border-top-left-radius: 5px;
+	border-top-right-radius: px;
+    border-top-left-radius: px;
 }
+#conteudo-left-2{
+	width: 82.02%;
+	height: 0.7%; 585px;
+	margin-left: 10%;
+	background-color: #444;
+}
+	
 #conteudo-right{
 	width: 80%;
 	height: 36%; 220px;
 	margin-left: 10%;
-	background: linear-gradient(to top,#987,#999);
+	background: linear-gradient(to top,#CCBB99,#999);
 	font-size: 11.5px; color: #544; #2c6d6f; 0f0f0f; #2F2F2F;
+	
 	font-family: Yandex-UI-Icons-Private;
 	padding-left: 1%; 
 	padding-right: 1%;
 	padding-top: 5px;
-        border-bottom-left-radius: 5px;
-        border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 h {
 	   color: #544; #2c6d6f; #2f3f3f; 2F2F3F;  rgb(0, 0, 0); #aaa; #0c6d6f; #151516; #dbdbdb; #EDEEF0; #7c6d6f; white; #dbdbdb; #151516; font-size: 11.5px; 12.7px; 12.6px; font-family: Sitka Small; Yandex-UI-Icons-Private; Sitka Small;
