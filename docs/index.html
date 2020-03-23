@@ -21,47 +21,35 @@ body {
 </style>
 <script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
 <script src="https://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
 <div id="site">
 <div id="conteudo-header"></div>
 <div id="conteudo-left">
-<div id="fp-thumbnails"></div>
+ <video id="video" controls="" crossorigin="" muted="true" autoplay="true" style="width:100%; height: 100%; "></video>
+    <script>
+        const video = document.querySelector("#video");
+        if (video.canPlayType('application/vnd.apple.mpegURL')) {
+                let newSource = document.createElement('source');
+                newSource.src = 'https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?';
+                newSource.type = 'application/vnd.apple.mpegURL';
+                video.appendChild(newSource);
 
-<script>
-flowplayer("#fp-thumbnails", {
-    ratio: 15/20,
-    share: false,
-	splash: false,
-	live: true,
-	muted: true,
-	autoplay: true,
-	autoBuffering: true,
-	embed: false,
-	fullscreen: true,
-    hlsQualities: true,
-	poster: '',
-	height: 400,
-    width: 620,
-    clip: {
-        // configure thumbnails for this clip
-        thumbnails: {
-            template: "",
-            preload: true
-        },
-
-        sources: [
-            { type: "application/x-mpegurl",
-              src:  "https://cdn.jsdelivr.net/gh/bet476/rtm/espnbra/master.m3u8?" },
-            { type: "video/mp4",
-              src:  "" }
-        ],
-		title: ""
-		
-    }
-});
-</script>
-
+                const Plyr = Plyr.setup(video);
+        } else {
+            if(Hls.isSupported()) {
+                var hls = new Hls();
+                hls.loadSource('https://live-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/manifest.m3u8?');
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                    video.play();
+                });
+            } else {
+                alert("HLS Is not supported on this device/browser");
+            }
+        }
+    </script>
 </div>
 <div id="conteudo-left-2"></div>
 <div id="conteudo-right">
