@@ -1,72 +1,110 @@
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8"/>
-<title>ESPN BRASIL</title>
-<link type="text/css" rel="stylesheet" media="screen" href="https://cdn.jsdelivr.net/gh/bet476/livestream/enstyle.css" />
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<style type="text/css">
-body {
-    background-color: #333; #ddd; #444;	
+<meta charset="UTF-8"/> 
+<title>TutsUP - Layout Responsivo</title>
+<link type="text/css" rel="stylesheet" media="screen" href="style.css" />
+<style>
+body, html{
+			margin:0;
+			padding:0;
+			background-color:#fff;
 	}
-	h1 {
-	   font-size:14.45889px;
-    }
-    p { 
-	  line-height:1.5;
-    }
-	 *:focus {
-    outline: none;
-    } 
+	p { line-height: 1px;
+	    font-size: 12.7px; color:#283747; black; font-family: Yandex-UI-Icons-Private;
+	}
+	p1 { line-height:1px;
+	    font-size: 12.7px; color: black; font-family: Yandex-UI-Icons-Private;
+	}
+	h {
+	   color:#283747; #544; rgb(0, 0, 0); font-size: 10.498px; 12.46px; font-family: Sitka Small; 
+	}
+	h1 { line-height: 1px; color: #b40000; rgb(85, 26, 139); rgb(0, 0, 0); font-size: 14px; font-family: Sitka Small;
+	}
 	
 	
-
-	  
+	
 </style>
+</head> 
+<link rel="stylesheet" href="https://releases.flowplayer.org/7.2.7/skin/skin.css"> 	
 <script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
 <script src="https://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
 
-
-</head>
 <body>
-<div id="site">
-<div id="conteudo-header"></div>
-<div id="conteudo-left">
- <video id="video" controls="" crossorigin="" muted="true" autoplay="true" style="width: 100%; height: 100%; background-color: #333; overflow: hidden; border-top-right-radius: 5px; border-top-left-radius: 5px; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px;  "></video>
-    <script>
-        const video = document.querySelector("#video");
-        if (video.canPlayType('application/vnd.apple.mpegURL')) {
-                let newSource = document.createElement('source');
-                newSource.src = 'https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8';
-                newSource.type = 'application/vnd.apple.mpegURL';
-                video.appendChild(newSource);
+		<div class="main">
+			<div class="menu">
+				<ul>
+					<li> <a href="#">  </a> </li>
+					<li> <a href="#">  </a> </li>
+				</ul>
+			</div>
+			<div class="content">				
+			<div id="fp-thumbnails"></div>
+            <script>
+flowplayer("#fp-thumbnails", {
+    ratio: 15/20,
+    share: false,
+	splash: false,
+	live: true,
+	muted: true,
+	autoplay: true,
+	autoBuffering: true,
+	embed: false,
+	fullscreen: true,
+    hlsQualities: true,
+	poster: '',
+	height: 400,
+    width: 820,
+    clip: {
+        // configure thumbnails for this clip
+        thumbnails: {
+            template: "",
+            preload: true
+        },
 
-                const Plyr = Plyr.setup(video);
-        } else {
-            if(Hls.isSupported()) {
-                var hls = new Hls();
-                hls.loadSource('https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/master.m3u8');
-                hls.attachMedia(video);
-                hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                    video.play();
-                });
-            } else {
-                alert("HLS Is not supported on this device/browser");
-            }
-        }
-    </script>
-</div>
-<div id="conteudo-left-2"></div>
-<div id="conteudo-right">
-   
-   <a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h1><span data-reactid="65"> L.S.BROADCAST  </h1></span></a>
-   <b><span data-reactid="65"> LSB & ESPN BRASIL</span></b></p>
-    <h><b>Acompanhe Programação dos Canais ESPN</b></h>
-   <br><br><br>
-   &nbsp&nbsp<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/ESPN.html"><img src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn_brazil_2x.png" width=55 height=13 alt="ESPN"/></a>
-   <br><br><br>
-   &nbsp&nbsp<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/ESPN%202.html"><img src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espnplus_brazil_2x.png" width=55 height=13 alt="ESPN 2"/></a>
-   <br><br><br>
-   &nbsp&nbsp<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/ESPN%20Extra.html"><img src="https://a.espncdn.com/watchespn/images/web/network_logos/channel_logo_espn_extra_brazil_2x.png" width=55 height=20 alt="ESPN Extra"/></a></div>
-</div>
-</body>
+        sources: [
+            { type: "application/x-mpegurl",
+              src:  "https://live-oiplay.online.go.oi.com.br/live-cdn/fx.smil/manifest.m3u8" },
+            { type: "video/mp4",
+              src:  "" }
+        ],
+		title: ""
+		
+    }
+});
+</script>			
+			</div>
+			<div class="sidebar">
+			<br><br>
+			<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h1><b><span data-reactid="65"> L.S.BROADCAST</span></b></h1></a>
+			<li>
+			<p><b><span data-reactid="65">&nbspLSB & FOX SPORTS </span></b></p>
+			<br>
+			<h><b>&nbsp ACOMPANHE A PROGRAMAÇÃO DOS CANAIS FOX </b></h>
+			<li>
+            <li>
+			<li>
+            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; black; #283747; #4B0082" >FOX<a/></b>
+			 <li><li><li>
+            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FX.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; darkblue; #283747; #4B0082" >FX<a/></b>
+            <li><li><li>
+            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus/FOX%20Sports%202.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; darkblue; #283747; #4B0082">FOX SPORTS 2<a/></b> 
+            <li><li><li>
+            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX%20%20Premium%201.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; #283747; #4B0082" >FOX PREMIUM 1<a/></b>
+			
+            
+  
+			</div>
+			
+			<br style="clear:both">
+			
+			<div class="footer">
+				
+			</div>
+			
+			
+			
+			
+		</div>
+	</body>
 </html>
