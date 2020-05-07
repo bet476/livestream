@@ -61,7 +61,7 @@
 			width:100%; 68.9%;
 			height:170px; 175px; 25px;
 			max-height:170px;
-			background-color:#555; #444; #abb;
+			background-color:#666; #444; #abb;
 			text-align:left;
 			padding-left: 15px;
 			font-size:12px; 12px; 11.2px;10.6px; 11.45px; 11.3px; color: #070719; 
@@ -72,7 +72,7 @@
 		}
 		.menu{
 			width:100%;
-			background:#666; #abb;
+			background:#777; #abb;
 			margin-top: -1px;
 		}
 		
