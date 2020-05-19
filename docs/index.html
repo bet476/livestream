@@ -1,48 +1,49 @@
-<!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		
-		<title>TutsUP - Layout Responsivo</title>
-		<link type="text/css" rel="stylesheet" media="screen" href="https://cdn.jsdelivr.net/gh/bet476/livestream/STYLEBET476T5.CSS" />
-		
-		<link rel="stylesheet" href="https://releases.flowplayer.org/7.2.7/skin/skin.css"> 	
-        <script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
-        <script src="https://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
 
-		
-		<style>
-		body, html{
+<head>
+<title>Layout Respnsivo com Css3</title>
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 0px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/small.css" />
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 1000px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/medium.css" />
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 1135px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/large.css" />
+
+<link rel="stylesheet" href="https://releases.flowplayer.org/7.2.7/skin/skin.css"> 	
+<script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
+<script src="https://releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js"></script>
+
+<style>
+body, html{
 			margin:0;
 			padding:0;
-			}
-			p { line-height: 0px;
-	    font-size: 12.7px; color: #283747; black; font-family: Yandex-UI-Icons-Private;
-	}
+			background-color:#1C1C1C;
+}
+p { line-height: 0px; font-size: 12.7px; color: #283747; black; font-family: Yandex-UI-Icons-Private;
+}
+h { color:#17202A; #1e1e1e; #283747; #544; rgb(0, 0, 0); font-size:11.6px; 11.4px; 10.4px; 10.498px; 12.46px; font-family: Sitka Small; 
+} 
+h2 { line-height: 3px; color:#b40000; rgb(85, 26, 139); rgb(0, 0, 0); font-size: 15.5px; font-family: Sitka Small;
+}
+h1 { padding: 2px; color: #283747; #aaa; #151516; #3c161c; #1f1f1f; font-size: 12.4px; 12.7px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
+}
+.flowplayer .fp-engine {
+  object-fit: fill;
+}
+
 	
-	h {
-	   color:#283747; #544; rgb(0, 0, 0); font-size: 10.4px; 10.498px; 12.46px; font-family: Sitka Small; 
-	}
-	h1 { line-height: 1px; color: #b40000; rgb(85, 26, 139); rgb(0, 0, 0); font-size: 14px; font-family: Sitka Small;
-	}
-	h2 { color: #283747; #aaa; #151516; #3c161c; #1f1f1f; font-size:12.7px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
-	 }
-		
-		
-		}
-		</style>
-		</head>
-	<body>
-		<div class="main">
-			<div class="menu">
-				<ul>
-					<li> <a href="#">  </a> </li>
-					<li> <a href="#">  </a> </li>
-				</ul>
-			</div>
-			<div class="content">
-				<div class="content-inner">
-			     <div id="fp-thumbnails"></div>
+</style>
+
+</head>
+
+
+
+<body>
+  
+  <div class="MAIN">
+	
+	<div class="content">
+	
+	<div class="header"></div>
+	<div class="content-LEFT">
+	<div id="fp-thumbnails"></div>
             <script>
 flowplayer("#fp-thumbnails", {
     ratio: 9/16,
@@ -76,34 +77,46 @@ flowplayer("#fp-thumbnails", {
     }
 });
 </script>			
-				</div>
-				
-			</div>
-			<div class="sidebar">
-			<br><br>
-			<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h1><b><span data-reactid="65">L.S.BROADCAST</span></b></h1></a>
-			<br>
-			<h2><b><span data-reactid="65">LSB & FOX SPORTS </span></b></h2>
-			<br>
-			<h><b>ACOMPANHE A PROGRAMAÇÃO DOS CANAIS FOX </b></h>
-			<li>
-            <li>
-			<li>
-            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; black; #283747; #4B0082" >FOX<a/></b>
-			 <li><li><li>
-            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FX.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; darkblue; #283747; #4B0082" >FX<a/></b>
-            <li><li><li>
-            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus/FOX%20Sports%202.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; darkblue; #283747; #4B0082">FOX SPORTS 2<a/></b> 
-            <li><li><li>
-            <b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX%20%20Premium%201.html" "under" style="text-decoration:none; color:#4B0082; #283747; blue; #292b2c; #283747; #4B0082" >FOX PREMIUM 1<a/></b>
-			
-			</div>
-			
-			<br style="clear:both">
-			
-			<div class="footer">
-				
-			</div>
-		</div>
-	</body>
+	</div>
+	
+	<div class="content-RIGHT">
+	<br><br>
+	<div class="box-right">
+	<li><li>
+	<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h2><b><span data-reactid="65">L.S.BROADCAST</span></b></h2></a>
+	
+	<li><li>
+	<h1><b><span data-reactid="65">LSB & FOX SPORTS </span></b></h1>
+	
+	</div>
+	<br><br>
+	<div class="box-right-2">
+	<h><b>Acompanhe ao vivo os canais FOX </b></h>
+	</div>
+	<li>
+    <li>
+	<li>
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX.html" "under" style="text-decoration:none; color:#4B0082;" >FOX<a/></b>
+	<li>
+	<li>
+	<li>
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FX.html" "under" style="text-decoration:none; color:#4B0082;" >FX<a/></b>
+    <li>
+	<li>
+	<li>
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX%20%20Premium%201.html" "under" style="text-decoration:none; color:#4B0082;" >FOX PREMIUM 1<a/></b>
+    <li>
+	<li>
+	<li>
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus/FOX%20Sports%202.html" "under" style="text-decoration:none; color:#4B0082;">FOX SPORTS 2<a/></b> 
+	</div>
+	
+	<div class="footer"></div>
+		
+ </div>
+	
+  </div>  
+		
+</body>
+
 </html>
