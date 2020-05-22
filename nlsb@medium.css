@@ -65,18 +65,18 @@
     border-bottom-right-radius: 0px;
 }
 .box-right-2 {
-	width: 101.6%; 99.99%; 98.2%;100%; 40%;
-	height: 20px; 12px; 78px; 23.5px; 16px;
-	padding-left: 8px;
-	padding-top: -3px;
-	margin-left:-12.2px; -15px; -9px; -13px;
+	width:115px; 51%; 101.6%; 99.99%; 98.2%;100%; 40%;
+	height:51px; 12px; 78px; 23.5px; 16px;
+	padding-left:8px; 8px;
+	padding-top: 5px; -3px;
+	margin-left:-4px; -15px; -15px; -9px; -13px;
 	margin-top:-10px;
-	padding-top:-10px;
-	background: transparent; #6ABC9C;
-	border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
-	border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+	padding-top:-8px;
+	background: #445;#D98880; #E5E7E9; #5DADE2; transparent; #6ABC9C;
+	border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px
 }
 .footer {
 	float:left;
