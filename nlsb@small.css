@@ -29,21 +29,21 @@ body, html{
 	padding-top:-10px;
 	background: #F5B041; #6ABC9C;
 	border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
+        border-top-left-radius: 0px;
 	border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0px;
 }
 .box-right-2 {
-	width: 101.6%; 99.99%; 98.2%;100%; 40%;
-	height:12px; 78px; 23.5px; 16px;
-	padding-left: 8px;
-	padding-top: -3px;
-	margin-left:-15px; -15px; -9px; -13px;
+	width:115px; 36%; 101.6%; 99.99%; 98.2%;100%; 40%;
+	height:50px; 12px; 78px; 23.5px; 16px;
+	padding-left: 7px;
+	padding-top: 5px; -3px;
+	margin-left:-4px; -12px; -15px; -15px; -9px; -13px;
 	margin-top:-10px;
 	padding-top:-10px;
-	background: transparent; #6ABC9C;
-	border-top-right-radius: 0px;
-    border-top-left-radius: 0px;
-	border-bottom-left-radius: 0px;
-    border-bottom-right-radius: 0px;
+	background:#445; #E5E7E9; transparent; #6ABC9C;
+	border-top-right-radius: 3px;
+        border-top-left-radius: 3px9;
+	border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
 }			
