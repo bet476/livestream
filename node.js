@@ -1,4 +1,2650 @@
-fetch("https://content-asae1-up-4.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9.m3u8?exp=1590456456&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=98bc5b964e09544465ac07989c812fb53eaf7c5d2b9dee8ab59abed3e5f75df2&pbs=e4ab396e95854ed4976159c2784b56d2", {
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456969981", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A69.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/FOX_BRA/S211207774FOX_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/FS1_BRA/S216542929FS1_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/FS2_BRA/S216442675FS2_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/NGK_Bra/S211993888NGK_Bra/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/NG_BRA/S211279246NG_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/NGW_BRA/S211564151NGW_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/FX_BRA/S211039876FX_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "headers": {
+    "accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "image",
+    "sec-fetch-mode": "no-cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/FL_BRA/S210163784FL_BRA/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.dtci-pe-vp-image-resizer.platform.edgedatg.com/storage/prod/avalor/listings/Fox_Premium_2_Brasil/S213468219Fox_Premium_2_Brasil/active.jpg?width=1232&height=692&quality=75", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/a.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456975127", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=a&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/A00000A69.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=c&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A6A.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=d&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456979963", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A6B.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A6C.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=e&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A6D.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456984920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A6E.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A6F.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A70.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456989956", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A71.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":2116,\"event_type\":\"playback_progress_live\",\"event_id\":\"bec7ca21-96af-4890-a375-ddaaca022d51\",\"event_time\":1590456992323,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456994955", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A72.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A73.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590456999973", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A74.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457004962", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A75.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457009922", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A76.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A77.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457014982", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A78.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457019978", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A79.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457024952", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":3334,\"event_type\":\"playback_progress_live\",\"event_id\":\"8abe874a-9cb0-4d01-8132-d9bb80db9263\",\"event_time\":1590457022534,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7A.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457029923", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7B.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457034921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7C.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7D.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457039922", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7E.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457044922", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A7F.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457049920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A80.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457054919", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":3334,\"event_type\":\"playback_progress_live\",\"event_id\":\"3cdeadba-8f49-4e01-b461-a7d12de237ff\",\"event_time\":1590457052762,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A81.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A82.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457059924", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457064923", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A83.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/E00000A84.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457069920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457074922", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=d&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A85.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457079923", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A86.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457084919", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=c&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A87.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":3334,\"event_type\":\"playback_progress_live\",\"event_id\":\"e554dd3d-535d-4dc4-b4eb-af803b545fad\",\"event_time\":1590457083009,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A88.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457089921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A89.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A8A.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A8B.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457094920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A8C.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457099920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A8D.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457104921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A8E.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457109918", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=d&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A8E.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A8F.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457114921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A90.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":932,\"event_type\":\"playback_progress_live\",\"event_id\":\"7abeb991-f12b-4889-ae91-18f4135df3c2\",\"event_time\":1590457113263,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457119920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A91.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457124920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A92.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457129919", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A93.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457134921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A94.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A95.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457139931", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A96.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457144918", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/D00000A97.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457149920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/d.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":2116,\"event_type\":\"playback_progress_live\",\"event_id\":\"117d4e66-2bad-480d-a1b7-a943a850c185\",\"event_time\":1590457143510,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457154920", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/check2?b=08c617c0def54c5d881caa92e68fcb02&v=7889811e7efb47f4a012cfba6ed4f2f9&r=c&c=7889811e7efb47f4a012cfba6ed4f2f9&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A98.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A99.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9A.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457159921", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9B.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457164923", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9C.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9D.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457169922", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9E.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": "[{\"video_event\":{\"video_id\":\"-1\",\"access_level\":1,\"video_position\":-1,\"live\":1,\"player_version\":\"1.2.2.23\",\"player_mode\":\"html5\",\"duration_watched\":0,\"bitrate\":2116,\"event_type\":\"playback_progress_live\",\"event_id\":\"fe7aa6c7-c9a7-4b93-ad7b-9d6d888794a8\",\"event_time\":1590457173553,\"session_id\":\"35a4d57b-d52a-46b0-b694-a0515e751e9f\",\"datamodel_version\":\"0.4.0\",\"network\":\"foxlatam\",\"app_environment\":1}}]",
+  "method": "POST",
+  "mode": "cors"
+}); ;
+fetch("https://prod.gatekeeper.us-abc.symphony.edgedatg.com/api/ws/telemetry/v1/events", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "OPTIONS",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457174932", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000A9F.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457179932", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000AA0.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457184924", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000AA1.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://content-asab2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/c.m3u8?exp=1590457256&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=0946dc5ce8f0b26038428abfdefb2df36fe240880805203313bc1539565c9ca2&rays=edcba&euid=%7BDC563C56-E926-474B-8583-1EEAFF342003%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&pp2ip=0&delay=0&v=3&sig=b8773be7dc209dc041354946716c4c87f62f32962d304d2e2afb942502441e23&pbs=f5d748980cb24c8f9e2c17139655aafd", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+}); ;
+fetch("https://cdn1.edgedatg.com/aws/apps/datg/web-player-unity/1.2.2.23/resources/img/thumbs/internetconnection.jpg?_=1590457189919", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site"
+  },
+  "referrer": "https://www.foxplay.com/pt-br/watch-live/foxsportsbrasil1",
+  "referrerPolicy": "no-referrer-when-downgrade",
+  "body": null,
+  "method": "HEAD",
+  "mode": "cors"
+}); ;
+fetch("https://x-default-stgec.uplynk.com/ause/slices/08c/c1e5068c9c4046ed97eba0e62fd1c6f5/08c617c0def54c5d881caa92e68fcb02/C00000AA2.ts?pbs=f5d748980cb24c8f9e2c17139655aafd&_jt=l&euid={DC563C56-E926-474B-8583-1EEAFF342003}_000_1_001_live_00-06-00_1.2.2.23&chid=7889811e7efb47f4a012cfba6ed4f2f9&si=0", {
   "headers": {
     "accept": "*/*",
     "accept-language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
