@@ -1,0 +1,175 @@
+/* Documento CSS */
+
+* {
+	margin:0px;
+	padding:0px;
+}
+.MAIN {
+	position:relative;
+	width:1125px; 1135px;
+	margin:0 auto;
+	height: 630px;
+	background-color:#0c161c; #1c1c1c; #FF2244;
+	
+}
+.content {
+	width:100% auto;
+	height:462px; 475px;
+	margin-top:3px;
+	border-top-left-radius: 2px;
+    border-top-right-radius: 2px;
+   
+	
+}
+.header {
+	width:100% auto;
+	height:24px; 28px; 35px;
+	margin-top: 3px;
+	background-color:#666; #555;
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	font-size:; color: #FFF;
+	
+}
+.content-LEFT {
+	float:left;
+	position:relative;
+	width:769PX; 764px;67.3%; 68%;67.85%; 
+	height: 432px;
+	margin-bottom:3px;
+	margin-top:3px;
+	margin-left:3px;
+	margin-right: 3px;
+	padding-top: -24px;
+	background-color: #1f1f1f;
+	border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.content-RIGHT {
+	float:left;
+	position:relative;
+	width:325PX; 325px; 29.5%; 29.9%; 28.345%;
+	height:432px; 438px;
+	margin-top:3px;
+	margin-bottom:0px;
+	margin-left:0PX; 3px; 12.5px;
+	margin-right:1px;
+	padding-left: 12px;
+	padding-right: 12px;
+	background:#ccc; linear-gradient(to top,#06c,#0ABC9C);
+	font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
+}
+.box-right {
+	width:103.7%; 99.99%; 98.2%;100%; 40%;
+	height:20px; 25px; 88px; 78px; 23.5px; 16px;
+	padding-left: 13px;
+	padding-top:18px; -3px;
+	margin-left:-12px; -9px; -13px;
+	margin-top:-24px; -10px;
+	background:#ff8900; #F5B041; #6ABC9C;
+	border-top-right-radius: 0px;
+        border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+}
+.box-right-2 {
+	width:115px; 51%; 101.6%; 99.99%; 98.2%;100%; 40%;
+	height:51px; 12px; 78px; 23.5px; 16px;
+	padding-left:8px; 8px;
+	padding-top: 5px; 5px; -3px;
+	margin-left: 0px ; -15px; -15px; -9px; -13px;
+	margin-top:-12px;
+	padding-top:-8px;
+	background:#222; #0c161c; #222; #D98880; #445 #E5E7E9; #5DADE2; transparent; #6ABC9C;
+	border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px
+}
+.box-ent-right-2 {
+	width:103.7%; 100% auto;
+	height:30px;
+	margin-top: -1px;
+	margin-left:-12px;
+	padding-left: 13px;
+	padding-top: -5px;
+	background-color:#ff8900; #eee; #fff;
+	font-size:none; color: #fff; 
+	
+}   
+.box-right-3 {
+width: 100% AUTO; 339px;346px;
+height:240PX; 275px; 200px; 270px; 250px;
+margin-top:12px; 11px;
+margin-left: 0px; -8px;
+background:#0f2161; #333; #21618C; #fff; black;
+font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
+border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+	border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.LOGOFOX {
+	width: 100px;
+	height: 27px;
+	margin-top: 0px;
+	padding-top:0px;
+	margin-left:15px;
+	padding-left:1px;
+	background:transparent; #fff;
+	font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
+	text-align:left;
+}
+.LOGOFX {
+	width: 100px;
+	height: 27px;
+	margin-top: 0px;
+	padding-top:0px;
+	margin-left:15px;
+	padding-left:1px;
+	background:transparent; #fff;
+	font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
+	text-align:left;
+}
+.LOGOFOXPREMIUM1 {
+	width: 100px;
+	height: 27px;
+	margin-top: 0px;
+	padding-top:0px;
+	margin-left:15px;
+	padding-left:1px;
+	background:transparent; #fff;
+	font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
+	text-align:left;
+}
+.LOGOFOXSPORTS2 {
+	width: 100px;
+	height: 27px;
+	margin-top: 0px;
+	padding-top:0px;
+	margin-left:15px;
+	padding-left:1px;
+	text-align:left;
+	background:transparent; #fff;
+	
+	
+}								
+.footer {
+	float:left;
+	position:relative;
+	width:100% auto;
+	height:143PX;150px;
+	padding-left: 0px;
+	padding-right: 0px;
+	background:#444;  #666;
+	border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 2px;
+}
+@media screen and (max-width: 700px) {
+			.content-RIGHT, .content-LEFT, .MAIN{
+				float: none;
+				width: 100%;
+				margin-right:0;
+]
