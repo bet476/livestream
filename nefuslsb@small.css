@@ -16,7 +16,7 @@ body, html{
 	padding-left: 15px;
 	padding-top: -5px;
 	padding-right: 15px;
-	background:#ccc; linear-gradient(to top,#06c,#0ABC9C); linear-gradient(to top,#fff,#eee); #F2F3F4; 
+	background:#275; linear-gradient(to top,#06c,#0ABC9C); linear-gradient(to top,#fff,#eee); #F2F3F4; 
 	font-size:11.49999969px; color: transparent;  font-family: Yandex-UI-Icons-Private; 
 }
 .box-right {
@@ -28,7 +28,7 @@ body, html{
 	margin-right:-14.59px;-14.6px; -9px; -13px;
 	margin-top:-24px;
 	padding-top:-8px;
-	background:#ff8900; #F5B041; #6ABC9C;
+	background:#999; #ff8900; #F5B041; #6ABC9C;
 	border-top-right-radius: 0px;
     border-top-left-radius: 0px;
 	border-bottom-left-radius: 0px;
@@ -56,7 +56,7 @@ body, html{
 	margin-right:-14.59px;
 	padding-left: 10px;
 	padding-top: -5px;
-	background-color:#ff8900; #eee; #fff;
+	background-color:#999; #ff8900; #eee; #fff;
 	font-size:none; color: #fff; 
 	
 }   
