@@ -20,7 +20,7 @@ body, html{
 	
 }
 .content-RIGHT {
-	
+	width: 100% auto;
 	height:480PX; 415px;
 	padding-left: 15px;
 	padding-top: -5px;
