@@ -6,9 +6,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	
-<link rel="stylesheet" type="text/css" media="screen and (min-width: 0px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/tscnf@small.css" />
-<link rel="stylesheet" type="text/css" media="screen and (min-width: 1000px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/nf@medium.css" />
-<link rel="stylesheet" type="text/css" media="screen and (min-width: 1135px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/nf@large.css" />
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 0px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/foxspcnf@small.css" />
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 1000px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/foxspnf@medium.css" />
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 1135px)" href="https://cdn.jsdelivr.net/gh/bet476/livestream/foxspnf@large.css" />
 
 <link rel="stylesheet" href="https://releases.flowplayer.org/7.2.7/skin/skin.css">	
 <script src="https://releases.flowplayer.org/7.2.7/flowplayer.min.js"></script>
@@ -20,20 +20,46 @@
 body, html{
 	    margin:0;
 		padding:0;
-		background-color:#1c1c1c; #0c161c; #0c161c; #1c1c1c;			
+		background-color:#0c161c; #0c161c; #1c1c1c;	
+
 
 }
 p { line-height: 0px; font-size: 12.7px; color: #283747; black; font-family: Yandex-UI-Icons-Private;
 }
-h { color: #ccc; #212F3D; #17202A; #1e1e1e; #283747; #544; rgb(0, 0, 0); font-size: 11.6px; 11.4px; 10.4px; 10.498px; 12.46px; font-family: Sitka Small; 
+h { color:black; 0c0c0c; 0c161c; #ddd; ccc; #212F3D; #17202A; #1e1e1e; #283747; #544; rgb(0, 0, 0); font-size: 11.6px; 11.4px; 10.4px; 10.498px; 12.46px; font-family: Sitka Small; 
 } 
-h2 { line-height: 3px; color: #b40000; rgb(85, 26, 139); rgb(0, 0, 0); font-size: 15.5px; font-family: Sitka Small;
+h2 { line-height: 3px; color:#299; #F85499; #C9A99A; rgb(85, 26, 139); rgb(0, 0, 0); font-size:15px; 15.5px; font-family: Sitka Small;
 }
-h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-size:12.5px; 12.4px; 12.7px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
+h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-size:12.4px; 12.5px; 12.4px; 12.7px; 12.6px; 11px; font-family: Yandex-UI-Icons-Private; Sitka Small; Yandex-UI-Icons-Private;
 }
 
 
 </style>
+
+<script>
+if (document.addEventListener) {
+    document.addEventListener("contextmenu", function(e) {
+        e.preventDefault();
+        return false;
+    });
+} else { //Versões antigas do IE
+    document.attachEvent("oncontextmenu", function(e) {
+        e = e || window.event;
+        e.returnValue = false;
+        return false;
+    });
+}
+</script>
+
+<script>
+document.onkeydown = function(e) {
+    if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 ||    e.keyCode === 117 || e.keycode === 17 || e.keycode === 85)) {
+        alert('comando inválido!');
+    }
+    return false;
+};
+</script>
+
 
 </head>
 
@@ -44,8 +70,8 @@ h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-s
   <div class="MAIN">
 	
 	<div class="content">
-	
-	<div class="header"></div>
+	<div class="header1"></div>
+	<div class="header2"></div>
 	<div class="content-LEFT">
     <div id="fp-thumbnails"></div>
     <script>
@@ -75,7 +101,7 @@ h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-s
 
         sources: [
             { type: "application/x-mpegurl",
-              src:  "https://content-asab1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9.m3u8?pbs=8121577af78940b9a37bd4e1961b5eda" },
+              src:  "https://content-asab1.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9.m3u8?pbs=99c92ca74dbe497d9395f77fd270732c" },
             { type: "video/mp4",
               src:  "" }
         ],
@@ -91,13 +117,17 @@ h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-s
 	<br><br>
 	
 	<div class="box-right">
+	<div class="box-right-n">
 	
-	<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h2><b><span data-reactid="65">L.S.BROADCAST</span></b></h2></a>
+	<a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus.html" "under" style="text-decoration:none" ><h2><b><span data-reactid="65">&nbspL.S.BROADCAST</span></b></h2></a>
+	</div>
 	</div>
 	
 	<div class="box-ent-right-2">
 	
-	<h1><b><span data-reactid="65">LSB & FOX SPORTS</span></b></h1>
+	&nbsp<img src="https://www.foxsports.com.br/images/logo.png?_v=1.5.96" width=65 height=34 alt=""/></a>
+	
+	
 	</div>
 	
 	<br><br>
@@ -108,31 +138,31 @@ h1 { padding: 2px; color: #333; #283747; #aaa; #151516; #3c161c; #1f1f1f; font-s
 	<div class="box-right-3">
 	<br><BR>
 	<DIV CLASS="LOGOFOX">
-	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX.html" "under" style="text-decoration:none; color:#ccc; #4B0082;">FOX<a/></b>
+	<b><a href="file:///C:/Users/pedro/Desktop/githb2/@foxn/fox.html" "under" style="text-decoration:none; color:#aaa; #ccc; #4B0082; font-family:sans serif;">FOX<a/></b>
 	</DIV>
 	<br>
 	<DIV CLASS="LOGOFX">
 	
-	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FX.html" "under" style="text-decoration:none; color:#ccc; #4B0082;" >FX<a/></b>
+	<b><a href="file:///C:/Users/pedro/Desktop/githb2/@fxn/fx.html" "under" style="text-decoration:none; color:#aaa; #ccc; #4B0082; font-family:sans serif;" >FX<a/></b>
 	</DIV>
 	<br>
 	<DIV CLASS="LOGOFOXPREMIUM1">
 	
-	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX%20%20Premium%201.html" "under" style="text-decoration:none; color:#ccc; #4B0082;" >FOX PREMIUM 1<a/></b>
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20playplus/FOX%20%20Premium%201.html" "under" style="text-decoration:none; color:#aaa; #ccc; #4B0082; font-family: sans serif;" >FOX PREMIUM 1<a/></b>
 	</DIV>
 	<br>
 	<DIV CLASS="LOGOFOXSPORTS2">
 	
-	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus/FOX%20Sports%202.html" "under" style="text-decoration:none; color:#ccc; #4B0082;">FOX SPORTS 2<a/></b> 
+	<b><a href="file:///C:/Users/pedro/Desktop/Oi%20+%20Playplus/FOX%20Sports%202.html" "under" style="text-decoration:none; color:#aaa; #ccc; #4B0082; font-family: sans serif;">FOX SPORTS 2<a/></b>
 	</DIV>
 	</div>
 	</div>
 	</div>
 	
-	<div class="footer">
+	<div class="footer1"></div>
+	<div class="footer2"></div>
 	
 	
-	</div>
 		
  </div>
 	
